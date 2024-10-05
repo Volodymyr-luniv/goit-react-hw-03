@@ -1,4 +1,4 @@
-import s from "./ContactList.module.css";
+import s from "./Contact.module.css";
 
 const Contact = ({ id, name, number, onDelete }) => {
 	return (
